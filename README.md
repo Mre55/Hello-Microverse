@@ -35,43 +35,18 @@ To work on this project locally you need to have Node.js installed in your machi
 
 You can start using Hello-Microverse by cloning the repository.
 
-### Run tests
-
-### Deployment
-
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Mihreteab Misganaw Aride**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Mre55)
+- Twitter: [@twitterhandle](https://twitter.com/MreMisganaw)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mihreteab-misganaw-86249812b/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
-
