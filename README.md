@@ -29,7 +29,11 @@ To work on this project locally you need to have Node.js installed in your machi
 
 ### Setup
 
+You need to have text editor (VS code, Atom) or any of your choice.
+
 ### Install
+
+You have to have Node.js installed before working on this project.
 
 ### Usage
 
